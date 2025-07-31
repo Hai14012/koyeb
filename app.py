@@ -4,9 +4,9 @@ import asyncio
 import random
 from datetime import datetime, timedelta
 
-TOKEN = "MTIxMjc2OTQ4NjU0NjAxODM4Nw.GOoAII.CDoj4qMoJmyJdY3LmRKpyLpo0Z7GBdHcpWwpUM"
-VOICE_CHANNEL_ID = 1216277642551234615
-SPAM_CHANNEL_ID = 1384771136528842813
+TOKEN = "MTIxMjc2OTQ4NjU0NjAxODM4Nw.G8s5jE.YpE9LFVWcdtDV9zdhTSsJRjMTuiIn2pQC9KP_M"
+VOICE_CHANNEL_ID = 1216277642551234616
+SPAM_CHANNEL_ID = 1400385587353223198
 
 client = commands.Bot(command_prefix="!", self_bot=True)
 
