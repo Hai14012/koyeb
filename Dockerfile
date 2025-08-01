@@ -22,5 +22,4 @@ RUN mkdir -p /app/notebooks
 EXPOSE 8888
 
 
-CMD ["bash", "-c", "neofetch && jupyter notebook --ip=0.0.0.0 --port=8888 --NotebookApp.token=''
- --no-browser --allow-root"]
+CMD ["bash", "-c", "neofetch && jupyter notebook --ip=0.0.0.0 --port=8888 --NotebookApp.token='' --no-browser --allow-root"]
